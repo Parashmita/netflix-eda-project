@@ -24,19 +24,19 @@ This Exploratory Data Analysis (EDA) project analyzes Netflix's content library 
 ## 📸 Visualizations
 
 ### ▶️ 1. Movies vs TV Shows
-![Type Distribution](images/type_distribution.png)
+![Type Distribution](type_distribution.png)
 
 ### 🌍 2. Top 10 Content-Producing Countries
-![Top Countries](images/top_countries.png)
+![Top Countries](top_countries.png)
 
 ### 📈 3. Content Growth Over Time
-![Release Trend](images/release_trend.png)
+![Release Trend](release_trend.png)
 
 ### ⏱️ 4. Duration: Movies vs TV Shows
-![Duration Comparison](images/duration_comparison.png)
+![Duration Comparison](duration_comparison.png)
 
 ### 🎭 5. Genre Frequency
-![Genre Distribution](images/genre_distribution.png)
+![Genre Distribution](genre_distribution.png)
 
 ---
 
@@ -49,3 +49,4 @@ This Exploratory Data Analysis (EDA) project analyzes Netflix's content library 
 
 ## 👩‍💻 Author
 **Parashmita Roy Chowdhury**
+
